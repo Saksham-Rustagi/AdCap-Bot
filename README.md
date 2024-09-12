@@ -56,7 +56,8 @@ python adventure_capitalist_bot.py
 
 1. Start the game and run the bot.
 2. Press `p` to print the current cursor location (useful for tweaking the bot's interaction with the game UI).
-3. The bot will automatically detect and recommend upgrades and investments.
+3. Make sure that all the cursor location listed at the top of the program correspond to your own locations for businesses and upgrades on your computer.
+4. The bot will automatically detect and click on upgrades and investments.
 
 ## Key Functions
 
